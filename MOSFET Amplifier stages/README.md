@@ -14,33 +14,15 @@ MOSFET amplifiers are widely used because of their high input impedance, low pow
 
 
 ---
-### 2. Common-Source Amplifier with Diode-Connected Load
-**Folder:** [`CS amplifier with Diode-Connected Load`](./CS_amplifier_with_Diode_Connected_Load)
 
----
-
-### 3. Common-Source Amplifier with Current-Source (Active) Load
-**Folder:** [`CS amplifier with Current-Source Load`](./CS_amplifier_with_Current_Source_Load)
-
----
-
-### 4. Common-Source Amplifier with Triode-Region Load (Voltage-Controlled Resistor)
-**Folder:** [`CS amplifier with Triode-Region Load`](./CS_amplifier_with_Triode_Region_Load)
-
----
-
-### 5. Common-Source Amplifier with Source Degeneration
+### 2. Common-Source Amplifier with Source Degeneration
 **Folder:** [`CS amplifier with Source Degeneration`](./CS_amplifier_with_Source_Degeneration)
 
 ---
 
-### 6. Source Follower (Common-Drain) Amplifier
+### 3. Source Follower (Common-Drain) Amplifier
 **Folder:** [`Source Follower (Common-Drain)`](./Source_Follower_Common_Drain)
 
 ---
-
-### 7. Common-Gate Amplifier
-**Folder:** [`Common-Gate Amplifier`](./Common_Gate_Amplifier)
-
 
 
